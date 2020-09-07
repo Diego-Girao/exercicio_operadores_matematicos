@@ -1,2 +1,2 @@
 # exercicio_operadores_matematicos
-DJF Treinamentos
+DJF Treinamentos - Brasil/Portugal.
